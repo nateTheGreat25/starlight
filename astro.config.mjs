@@ -18,6 +18,10 @@ export default defineConfig({
 					label: 'Shadowdark',
 					autogenerate: {directory: 'shadowdark'},
 				},
+				{
+					label: "Magic Items",
+					autogenerate: { directory: 'magic-items'},
+				},
 			],
 		}),
 	],
