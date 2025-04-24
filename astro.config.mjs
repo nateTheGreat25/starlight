@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Campaign Docs',
+			title: 'Chaos Gobbos',
 			logo: {
 				src: './src/assets/text2.svg',
 				replacesTitle: true,
