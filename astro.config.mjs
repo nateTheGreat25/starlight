@@ -7,7 +7,10 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Campaign Docs',
-			//social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			logo: {
+				src: './src/assets/text2.svg',
+				replacesTitle: true,
+			},
 			sidebar: [
 				
 				{

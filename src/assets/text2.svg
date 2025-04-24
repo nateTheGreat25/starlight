@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22.20631mm"
+   height="11.57565mm"
+   viewBox="0 0 22.20631 11.57565"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="178.33499"
+       y="279.39148"
+       width="56.472744"
+       height="18.824249"
+       id="rect4" />
+    <rect
+       x="232.82623"
+       y="192.20549"
+       width="60.435741"
+       height="36.657745"
+       id="rect3" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-53.190543,-51.840333)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#52b4cc;fill-opacity:1;stroke-width:0.264583"
+       x="52.442657"
+       y="62.028545"
+       id="text2"><tspan
+         id="tspan2"
+         style="fill:#52b4cc;fill-opacity:1;stroke-width:0.264583"
+         x="52.442657"
+         y="62.028545">C</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.55607426,2.5023342)"
+       id="text3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#52b4cc;fill-opacity:1"><tspan
+         x="232.82617"
+         y="217.18385"
+         id="tspan1">haos</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,13.969982,-14.539229)"
+       id="text4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#52b4cc;fill-opacity:1"><tspan
+         x="178.33594"
+         y="294.37787"
+         id="tspan3">Gobbos</tspan></text>
+  </g>
+</svg>
