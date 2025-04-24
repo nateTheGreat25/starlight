@@ -22,6 +22,10 @@ export default defineConfig({
 					label: "Magic Items",
 					autogenerate: { directory: 'magic-items'},
 				},
+				{
+					label: "Chaos",
+					autogenerate: { directory: 'chaos'},
+				},
 			],
 		}),
 	],
