@@ -29,6 +29,10 @@ export default defineConfig({
 					label: "Chaos",
 					autogenerate: { directory: 'chaos'},
 				},
+				{
+					label: "Session Summaries",
+					autogenerate: { directory:'session-sums'},
+				},
 			],
 		}),
 	],
